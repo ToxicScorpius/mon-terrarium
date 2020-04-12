@@ -22,4 +22,4 @@ J'essaie de rendre le processus de partage de mon site plus facile en utilisant 
   Here's a preview :
 </p>
 
-![Preview](preview.JPG)
+![Preview](images/preview.JPG/)
