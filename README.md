@@ -18,5 +18,5 @@ J'essaie de rendre le processus de partage de mon site plus facile en utilisant 
 
 <p align="center">
   Here's a preview :
-  ![Preview](preview.jpg)
+  ![Preview](preview.JPG)
 </p>
