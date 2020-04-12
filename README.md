@@ -15,3 +15,8 @@ J'essaie de rendre le processus de partage de mon site plus facile en utilisant 
 <p align="center">
   <a href="acceuil.html"> Acceuil </a>
 </p>
+
+<p align="center">
+  Here's a preview :
+  <img src="preview.jpg>
+</p>
