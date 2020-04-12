@@ -17,6 +17,7 @@ J'essaie de rendre le processus de partage de mon site plus facile en utilisant 
 </p>
 
 <p align="center">
+  <h1> Preview </h1>
   Here's a preview :
 </p>
 
