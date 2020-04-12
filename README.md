@@ -3,11 +3,11 @@ This is my website project, , created in grade 10 (available in french only). It
 
 I am trying to make the process of sharing my website easier by using Github Pages and learning new stuff through that process, so if you have any suggestion, I am always open to hear them.
 
-<p style="text-align: center;">[Home](https://toxicscorpius.github.io/mon-terrarium/acceuil.html)</p>
+[Home](https://toxicscorpius.github.io/mon-terrarium/acceuil.html)
 
 # Mon Terrarium, un site web pour rendre la terrariophilie facile
 Ceci est mon projet de site web, créé en 10e année. Son but était de faciliter la gestion d'un terrarium, tout en améliorant mes compétences en programmation web. J'ai pris beaucoup de plaisir à faire ce site, et j'espère que vous aurez aussi plaisir à le regarder !
 
 J'essaie de rendre le processus de partage de mon site plus facile en utilisant les pages Github et en apprenant de nouvelles choses grâce à ce processus, donc si vous avez des suggestions, je suis toujours ouvert à les entendre.
 
-<p style="text-align: center;">[Acceuil](https://toxicscorpius.github.io/mon-terrarium/acceuil.html)</p>
+[Acceuil](https://toxicscorpius.github.io/mon-terrarium/acceuil.html)
