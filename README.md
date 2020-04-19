@@ -25,8 +25,8 @@ J'essaie de rendre le processus de partage de mon site plus facile en utilisant 
 ![Preview](images/preview.JPG/)
 
 # Credits
-Paradigm Shift by HTML5 UP
-[HTML5UP]{html5up.net} | [@ajlkn]{https://twitter.com/ajlkn}
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Paradigm Shift by HTML5 UP. Free for personal and commercial use under the CCA 3.0 license : [html5up.net/license](html5up.net/license)
 
-See the [license]{LICENSE.md} for more informations.
+[HTML5UP](html5up.net) | [@ajlkn](https://twitter.com/ajlkn)
+
+See the [license](LICENSE.md) for more information.
