@@ -30,3 +30,5 @@ Paradigm Shift by HTML5 UP. Free for personal and commercial use under the CCA 3
 [HTML5UP](html5up.net) | [@ajlkn](https://twitter.com/ajlkn)
 
 See the [license](LICENSE.md) for more information.
+
+All the images are from [Unsplash](https://unsplash.com).
