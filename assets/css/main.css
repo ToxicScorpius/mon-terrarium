@@ -1,5 +1,5 @@
 @import url("fontawesome-all.min.css");
-@import url("https://fonts.googleapis.com/css?family=Roboto:100,300,100italic,300italic");
+@import url("https://fonts.googleapis.com/css?family=Roboto:100,300,100italic,300italic|IBM Plex Sans");
 
 /*
 	Landed by HTML5 UP
@@ -35,6 +35,9 @@ body {
 
 ol, ul {
 	list-style: none;
+	font-family: IBM Plex Sans;
+	font-size: 20px;
+	line-height: 1.3;
 }
 
 blockquote, q {
@@ -100,7 +103,7 @@ input, select, textarea {
 	body, input, select, textarea {
 		color: rgba(255, 255, 255, 0.75);
 		font-family: "Roboto", Helvetica, sans-serif;
-		font-size: 15pt;
+		font-size: 20px;
 		font-weight: 100;
 		line-height: 1.75em;
 	}
@@ -110,14 +113,14 @@ input, select, textarea {
 		-webkit-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		-ms-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out;
-		border-bottom: dotted 1px;
 		color: #e44c65;
 		text-decoration: none;
+		font-family: "IBM Plex Sans", Helvetica, sans-serif;
 	}
 
 		a:hover {
 			color: #e44c65 !important;
-			border-bottom-color: transparent;
+			text-decoration: underline;
 		}
 
 	strong, b {
@@ -131,6 +134,9 @@ input, select, textarea {
 
 	p {
 		margin: 0 0 2em 0;
+		font-family: "IBM Plex Sans";
+		font-size: 20px;
+		line-height: 1.45;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -138,6 +144,7 @@ input, select, textarea {
 		font-weight: 300;
 		line-height: 1em;
 		margin: 0 0 1em 0;
+		font-family: "IBM Plex Sans";
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -2157,6 +2164,7 @@ input, select, textarea {
 		color: #ffffff;
 		position: relative;
 		margin: 0 0 1.5em 0;
+		line-height: 1.5;
 	}
 
 	header h2 + p {
@@ -2579,11 +2587,21 @@ input, select, textarea {
 	ul {
 		list-style: disc;
 		margin: 0 0 2em 0;
+		padding: 1px;
+		padding-top: 0.8em;
 		padding-left: 1em;
 	}
 
 		ul li {
 			padding-left: 0.5em;
+			margin-bottom: 20px;
+			line-height: 1.45;
+		}
+
+		ul li.special {
+			font-family: "IBM Plex Sans";
+			font-size: 18px;
+			margin: 10px;
 		}
 
 		ul.alt {
@@ -2839,6 +2857,7 @@ input, select, textarea {
 		color: #ffffff !important;
 		cursor: pointer;
 		display: inline-block;
+		font-family: "IBM Plex Sans";
 		font-weight: 300;
 		height: 3em;
 		line-height: 3em;
@@ -3322,11 +3341,6 @@ input, select, textarea {
 		padding: 0.25em 0;
 	}
 
-		.dropotron > li {
-			border-top: solid 1px rgba(255, 255, 255, 0.035);
-			padding: 0;
-		}
-
 			.dropotron > li a, .dropotron > li span {
 				border: 0;
 				color: rgba(255, 255, 255, 0.75);
@@ -3393,6 +3407,8 @@ input, select, textarea {
 			margin: 0;
 			position: absolute;
 			top: 0;
+			font-family: "IBM Plex Sans";
+			font-size: 20px;
 		}
 
 		#header nav {
@@ -3415,7 +3431,6 @@ input, select, textarea {
 						color: inherit;
 						display: inline-block;
 						height: inherit;
-						line-height: inherit;
 						outline: 0;
 					}
 
