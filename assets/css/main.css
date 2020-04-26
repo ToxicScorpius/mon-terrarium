@@ -102,7 +102,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: rgba(255, 255, 255, 0.75);
-		font-family: "Roboto", Helvetica, sans-serif;
+		font-family: "IBM Plex Sans", Helvetica, sans-serif;
 		font-size: 20px;
 		font-weight: 100;
 		line-height: 1.75em;
@@ -134,7 +134,7 @@ input, select, textarea {
 
 	p {
 		margin: 0 0 2em 0;
-		font-family: "IBM Plex Sans";
+		font-family: "IBM Plex Sans", Helvetica, sans-serif;
 		font-size: 20px;
 		line-height: 1.45;
 	}
@@ -149,7 +149,7 @@ input, select, textarea {
 		font-weight: 300;
 		line-height: 1em;
 		margin: 0 0 1em 0;
-		font-family: "IBM Plex Sans";
+		font-family: "IBM Plex Sans", Helvetica, sans-serif;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -2604,7 +2604,7 @@ input, select, textarea {
 		}
 
 		ul li.special {
-			font-family: "IBM Plex Sans";
+			font-family: "IBM Plex Sans", Helvetica, sans-serif;
 			font-size: 18px;
 			margin: 10px;
 		}
@@ -2862,7 +2862,7 @@ input, select, textarea {
 		color: #ffffff !important;
 		cursor: pointer;
 		display: inline-block;
-		font-family: "IBM Plex Sans";
+		font-family: "IBM Plex Sans", Helvetica, sans-serif;
 		font-weight: 300;
 		height: 3em;
 		line-height: 3em;
@@ -3412,7 +3412,7 @@ input, select, textarea {
 			margin: 0;
 			position: absolute;
 			top: 0;
-			font-family: "IBM Plex Sans";
+			font-family: "IBM Plex Sans", Helvetica, sans-serif;
 			font-size: 20px;
 		}
 
