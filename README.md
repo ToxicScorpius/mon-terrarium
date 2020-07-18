@@ -13,7 +13,7 @@ Ceci est mon projet de site web, créé en 10e année. Son but était de facilit
 J'essaie de rendre le processus de partage de mon site plus facile en utilisant les pages Github et en apprenant de nouvelles choses grâce à ce processus, donc si vous avez des suggestions, je suis toujours ouvert à les entendre.
 
 <p align="center">
-  <a href="accueil.html"> Acceuil </a>
+  <a href="accueil.html"> Accueil </a>
 </p>
 
 # Preview
